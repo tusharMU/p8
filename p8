@@ -70,8 +70,8 @@
   },
   {
     "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
+    "name": "kuber",
+    "username": "DS",
     "email": "Julianne.OConner@kory.org",
     "address": {
       "street": "Hoeger Mall",
@@ -93,8 +93,8 @@
   },
   {
     "id": 5,
-    "name": "Chelsey Dietrich",
-    "username": "Kamren",
+    "name": "kris",
+    "username": "Aizen",
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
       "street": "Skiles Walks",
@@ -116,8 +116,8 @@
   },
   {
     "id": 6,
-    "name": "Mrs. Dennis Schulist",
-    "username": "Leopoldo_Corkery",
+    "name": "Heet",
+    "username": "Joshi",
     "email": "Karley_Dach@jasper.info",
     "address": {
       "street": "Norberto Crossing",
@@ -139,8 +139,8 @@
   },
   {
     "id": 7,
-    "name": "Kurtis Weissnat",
-    "username": "Elwyn.Skiles",
+    "name": "jay",
+    "username": "kanariya",
     "email": "Telly.Hoeger@billy.biz",
     "address": {
       "street": "Rex Trail",
