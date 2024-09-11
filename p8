@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Tushar",
     "username": "Mack",
-    "email": "Sincere@april.biz",
+    "email": "Since@april.biz",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
